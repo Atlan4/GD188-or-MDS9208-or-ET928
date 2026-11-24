@@ -1,4 +1,4 @@
-firmware v0.77
+firmware v0.78
 
 An alternative firmware has been created for the above measuring devices.
 It has only been tested on GD188.
