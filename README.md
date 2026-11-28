@@ -1,7 +1,9 @@
 firmware v0.78
 
 An alternative firmware has been created for the above measuring devices.
-It has only been tested on GD188.
+It has only been tested on GD188 and ET928.
+
+Units with serial numbers ranging from E3202 1001581 to E3202 1200345 should, with 99% certainty, use the same measurement chip, so they should work with the given firmware. Of course, I offer no guarantees.
 
 Important note: I do not recommend overwriting the original uP. It is not certain that your measuring chip uses the same instructions as the GD188 that I have. Next week I plan to try the modification on ETxxx, but for that I need to order a completely new uP that I will resolder and upload the alternative firmware to.
 
